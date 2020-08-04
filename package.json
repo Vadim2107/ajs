@@ -1,0 +1,19 @@
+{
+  "name": "@vadim2107/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadim2107/ajs.git"
+  },
+  "author": "Vadim Zinoviev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadim2107/ajs/issues"
+  },
+  "homepage": "https://github.com/Vadim2107/ajs#readme"
+}
